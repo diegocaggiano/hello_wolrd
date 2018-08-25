@@ -1,2 +1,2 @@
-# hello_wolrd
+# hello_world
 Diego Caggiano's first GitHub repo
